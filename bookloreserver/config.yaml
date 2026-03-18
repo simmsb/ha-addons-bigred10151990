@@ -1,7 +1,7 @@
-name: BookLore Server
-version: 2.0.2
+name: Grimmory server
+version: 1.0.0
 slug: bookloreserver
-description: BookLore is a self-hosted app for managing and reading books & comics (PDF, EPUB, CBZ) with metadata editing, OPDS, reading progress, and multi-user support.
+description: Grimmory is a self-hosted app for managing and reading books & comics (PDF, EPUB, CBZ) with metadata editing, OPDS, reading progress, and multi-user support.
 arch:
   - amd64
   - aarch64
